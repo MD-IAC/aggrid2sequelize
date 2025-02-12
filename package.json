@@ -1,5 +1,5 @@
 {
-  "name": "app",
+  "name": "aggrid2sequelize",
   "version": "0.0.0",
   "description": "Convert AG Grid parameters to Sequelize",
   "main": "index.ts",
